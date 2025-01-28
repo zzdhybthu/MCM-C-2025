@@ -1,0 +1,1244 @@
+<!DOCTYPE html>
+<html>
+<head>
+    
+    <meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+    
+        <script>
+            L_NO_TOUCH = false;
+            L_DISABLE_3D = false;
+        </script>
+    
+    <style>html, body {width: 100%;height: 100%;margin: 0;padding: 0;}</style>
+    <style>#map {position:absolute;top:0;bottom:0;right:0;left:0;}</style>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.js"></script>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/leaflet@1.9.3/dist/leaflet.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.2/dist/css/bootstrap.min.css"/>
+    <link rel="stylesheet" href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6.2.0/css/all.min.css"/>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Leaflet.awesome-markers/2.0.2/leaflet.awesome-markers.css"/>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/python-visualization/folium/folium/templates/leaflet.awesome.rotate.min.css"/>
+    
+            <meta name="viewport" content="width=device-width,
+                initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
+            <style>
+                #map_1ca1b98ac281fd82ae4c0cf4bffaf79a {
+                    position: relative;
+                    width: 100.0%;
+                    height: 100.0%;
+                    left: 0.0%;
+                    top: 0.0%;
+                }
+                .leaflet-container { font-size: 1rem; }
+            </style>
+        
+</head>
+<body>
+    
+    
+            <div class="folium-map" id="map_1ca1b98ac281fd82ae4c0cf4bffaf79a" ></div>
+        
+</body>
+<script>
+    
+    
+            var map_1ca1b98ac281fd82ae4c0cf4bffaf79a = L.map(
+                "map_1ca1b98ac281fd82ae4c0cf4bffaf79a",
+                {
+                    center: [20.0, 0.0],
+                    crs: L.CRS.EPSG3857,
+                    ...{
+  "zoom": 2,
+  "zoomControl": true,
+  "preferCanvas": false,
+}
+
+                }
+            );
+
+            
+
+        
+    
+            var tile_layer_8a90df370081f261e1fa75294c69045f = L.tileLayer(
+                "https://tile.openstreetmap.org/{z}/{x}/{y}.png",
+                {
+  "minZoom": 0,
+  "maxZoom": 19,
+  "maxNativeZoom": 19,
+  "noWrap": false,
+  "attribution": "\u0026copy; \u003ca href=\"https://www.openstreetmap.org/copyright\"\u003eOpenStreetMap\u003c/a\u003e contributors",
+  "subdomains": "abc",
+  "detectRetina": false,
+  "tms": false,
+  "opacity": 1,
+}
+
+            );
+        
+    
+            tile_layer_8a90df370081f261e1fa75294c69045f.addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var marker_1f86e58aa2c0f2624833dd170ce7d221 = L.marker(
+                [37.9838, 23.7275],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_35f37ef3dcbdbd32e11fb911bb3ef76c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_1f86e58aa2c0f2624833dd170ce7d221.setIcon(icon_35f37ef3dcbdbd32e11fb911bb3ef76c);
+        
+    
+        var popup_0be7b50eb0876b612db04004b6d0188c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_0adf12789c77805ac05cb3374fa6112b = $(`<div id="html_0adf12789c77805ac05cb3374fa6112b" style="width: 100.0%; height: 100.0%;">Athens (1896)</div>`)[0];
+                popup_0be7b50eb0876b612db04004b6d0188c.setContent(html_0adf12789c77805ac05cb3374fa6112b);
+            
+        
+
+        marker_1f86e58aa2c0f2624833dd170ce7d221.bindPopup(popup_0be7b50eb0876b612db04004b6d0188c)
+        ;
+
+        
+    
+    
+            var marker_790962b681973f1f9688b63385d548bd = L.marker(
+                [48.8566, 2.3522],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_bd283b2a5da04d99a806b074069e491e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_790962b681973f1f9688b63385d548bd.setIcon(icon_bd283b2a5da04d99a806b074069e491e);
+        
+    
+        var popup_904d6528584e10a0d8d3b5a5f9b84c8d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_1a9492cb444a5b1e93d5d55dda5113bd = $(`<div id="html_1a9492cb444a5b1e93d5d55dda5113bd" style="width: 100.0%; height: 100.0%;">Paris (1900)</div>`)[0];
+                popup_904d6528584e10a0d8d3b5a5f9b84c8d.setContent(html_1a9492cb444a5b1e93d5d55dda5113bd);
+            
+        
+
+        marker_790962b681973f1f9688b63385d548bd.bindPopup(popup_904d6528584e10a0d8d3b5a5f9b84c8d)
+        ;
+
+        
+    
+    
+            var marker_f95db2871c4a8402401f30f201cb9c9d = L.marker(
+                [38.6272, -90.1994],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_5a1a8255dc3ce192107b0c07c3a589a3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_f95db2871c4a8402401f30f201cb9c9d.setIcon(icon_5a1a8255dc3ce192107b0c07c3a589a3);
+        
+    
+        var popup_3f91c3226e232c9e72df897a9250412d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e9c45477bb9c87fdaef7c307e20979a2 = $(`<div id="html_e9c45477bb9c87fdaef7c307e20979a2" style="width: 100.0%; height: 100.0%;">St. Louis (1904)</div>`)[0];
+                popup_3f91c3226e232c9e72df897a9250412d.setContent(html_e9c45477bb9c87fdaef7c307e20979a2);
+            
+        
+
+        marker_f95db2871c4a8402401f30f201cb9c9d.bindPopup(popup_3f91c3226e232c9e72df897a9250412d)
+        ;
+
+        
+    
+    
+            var marker_5c194a010e6b8069af586fa703b8a921 = L.marker(
+                [51.5074, -0.1278],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_d49f7ad2b78f3e951b645a66bae9cb93 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_5c194a010e6b8069af586fa703b8a921.setIcon(icon_d49f7ad2b78f3e951b645a66bae9cb93);
+        
+    
+        var popup_403a3b56b0533bfb621b88ba11769ea4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ff08f392353e2bb39f596852f181e8d8 = $(`<div id="html_ff08f392353e2bb39f596852f181e8d8" style="width: 100.0%; height: 100.0%;">London (1908)</div>`)[0];
+                popup_403a3b56b0533bfb621b88ba11769ea4.setContent(html_ff08f392353e2bb39f596852f181e8d8);
+            
+        
+
+        marker_5c194a010e6b8069af586fa703b8a921.bindPopup(popup_403a3b56b0533bfb621b88ba11769ea4)
+        ;
+
+        
+    
+    
+            var marker_b68920dd8b007efa34f9bb288b8e4aef = L.marker(
+                [59.3293, 18.0686],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_0e15735116ab1d194c003f28c447c9cc = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_b68920dd8b007efa34f9bb288b8e4aef.setIcon(icon_0e15735116ab1d194c003f28c447c9cc);
+        
+    
+        var popup_0b3df4ff67a1419bcdd08d18dfe9a1c8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_49d38c4f58f47374c388f559317e15b9 = $(`<div id="html_49d38c4f58f47374c388f559317e15b9" style="width: 100.0%; height: 100.0%;">Stockholm (1912)</div>`)[0];
+                popup_0b3df4ff67a1419bcdd08d18dfe9a1c8.setContent(html_49d38c4f58f47374c388f559317e15b9);
+            
+        
+
+        marker_b68920dd8b007efa34f9bb288b8e4aef.bindPopup(popup_0b3df4ff67a1419bcdd08d18dfe9a1c8)
+        ;
+
+        
+    
+    
+            var marker_0e7ffce9a5759f38965619aafcd89352 = L.marker(
+                [51.2194, 4.4025],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_09e7a5678f1166286e998dbb12cf1d12 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_0e7ffce9a5759f38965619aafcd89352.setIcon(icon_09e7a5678f1166286e998dbb12cf1d12);
+        
+    
+        var popup_c041d6b757c8976e918717bf16785641 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_963a8a1255930780c72976d0c06d7131 = $(`<div id="html_963a8a1255930780c72976d0c06d7131" style="width: 100.0%; height: 100.0%;">Antwerp (1920)</div>`)[0];
+                popup_c041d6b757c8976e918717bf16785641.setContent(html_963a8a1255930780c72976d0c06d7131);
+            
+        
+
+        marker_0e7ffce9a5759f38965619aafcd89352.bindPopup(popup_c041d6b757c8976e918717bf16785641)
+        ;
+
+        
+    
+    
+            var marker_42a41e6b18496d691c4d8cb1d4eb7278 = L.marker(
+                [48.8566, 2.3522],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_685de8a6c6c19c9e0544fa16a5333e30 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_42a41e6b18496d691c4d8cb1d4eb7278.setIcon(icon_685de8a6c6c19c9e0544fa16a5333e30);
+        
+    
+        var popup_95935e47c53ef3af9cb43db2269a9be4 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f7ccde43c3f3bfa796a33c8f65bb0171 = $(`<div id="html_f7ccde43c3f3bfa796a33c8f65bb0171" style="width: 100.0%; height: 100.0%;">Paris (1924)</div>`)[0];
+                popup_95935e47c53ef3af9cb43db2269a9be4.setContent(html_f7ccde43c3f3bfa796a33c8f65bb0171);
+            
+        
+
+        marker_42a41e6b18496d691c4d8cb1d4eb7278.bindPopup(popup_95935e47c53ef3af9cb43db2269a9be4)
+        ;
+
+        
+    
+    
+            var marker_96d64e29553dabb6a194b2bd9ba41681 = L.marker(
+                [52.3676, 4.9041],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_455ea0eda9b319dbc445a64e0fe454e4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_96d64e29553dabb6a194b2bd9ba41681.setIcon(icon_455ea0eda9b319dbc445a64e0fe454e4);
+        
+    
+        var popup_10264dfd96dff9e24d8a2457e3758d03 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_4394aba869268ae83cd6c15878e34523 = $(`<div id="html_4394aba869268ae83cd6c15878e34523" style="width: 100.0%; height: 100.0%;">Amsterdam (1928)</div>`)[0];
+                popup_10264dfd96dff9e24d8a2457e3758d03.setContent(html_4394aba869268ae83cd6c15878e34523);
+            
+        
+
+        marker_96d64e29553dabb6a194b2bd9ba41681.bindPopup(popup_10264dfd96dff9e24d8a2457e3758d03)
+        ;
+
+        
+    
+    
+            var marker_ac6d9ca5c881e203c7876673a064e944 = L.marker(
+                [34.0522, -118.2437],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_682167f7eb6d6f7fdae03e3e94bc510b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_ac6d9ca5c881e203c7876673a064e944.setIcon(icon_682167f7eb6d6f7fdae03e3e94bc510b);
+        
+    
+        var popup_2c63c94fd37f2d969ff174000aa0d2c0 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5097b8677c23d602aa0cd0ccf453c914 = $(`<div id="html_5097b8677c23d602aa0cd0ccf453c914" style="width: 100.0%; height: 100.0%;">Los Angeles (1932)</div>`)[0];
+                popup_2c63c94fd37f2d969ff174000aa0d2c0.setContent(html_5097b8677c23d602aa0cd0ccf453c914);
+            
+        
+
+        marker_ac6d9ca5c881e203c7876673a064e944.bindPopup(popup_2c63c94fd37f2d969ff174000aa0d2c0)
+        ;
+
+        
+    
+    
+            var marker_b003752a6be48e37c34c6b75db3e8f46 = L.marker(
+                [52.52, 13.405],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_d309fc650fb5e038408af28bbef9f63a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_b003752a6be48e37c34c6b75db3e8f46.setIcon(icon_d309fc650fb5e038408af28bbef9f63a);
+        
+    
+        var popup_53dab7b89d68330c91643dff9b7d1a36 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_5d91fe4deff432d3c19069e5400f96ab = $(`<div id="html_5d91fe4deff432d3c19069e5400f96ab" style="width: 100.0%; height: 100.0%;">Berlin (1936)</div>`)[0];
+                popup_53dab7b89d68330c91643dff9b7d1a36.setContent(html_5d91fe4deff432d3c19069e5400f96ab);
+            
+        
+
+        marker_b003752a6be48e37c34c6b75db3e8f46.bindPopup(popup_53dab7b89d68330c91643dff9b7d1a36)
+        ;
+
+        
+    
+    
+            var marker_d7cb5031b1e9a9963450cc4a6054543c = L.marker(
+                [51.5074, -0.1278],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_c05064d69ec0805128d9f81f94fe8feb = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_d7cb5031b1e9a9963450cc4a6054543c.setIcon(icon_c05064d69ec0805128d9f81f94fe8feb);
+        
+    
+        var popup_4cd26a65b3ff2017f1ce4d142dd01ed8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_f43ad9a1e9c3c65e71eb76148acc3e33 = $(`<div id="html_f43ad9a1e9c3c65e71eb76148acc3e33" style="width: 100.0%; height: 100.0%;">London (1948)</div>`)[0];
+                popup_4cd26a65b3ff2017f1ce4d142dd01ed8.setContent(html_f43ad9a1e9c3c65e71eb76148acc3e33);
+            
+        
+
+        marker_d7cb5031b1e9a9963450cc4a6054543c.bindPopup(popup_4cd26a65b3ff2017f1ce4d142dd01ed8)
+        ;
+
+        
+    
+    
+            var marker_c1681ffc0c8b763f5d1751ced538551e = L.marker(
+                [60.1699, 24.9354],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_69dec93c23727881a2730a46387e52a8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_c1681ffc0c8b763f5d1751ced538551e.setIcon(icon_69dec93c23727881a2730a46387e52a8);
+        
+    
+        var popup_2fe6d21803a8c0083d435e12b11cc130 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a1dad18799fef43820922dcbcf8e36b9 = $(`<div id="html_a1dad18799fef43820922dcbcf8e36b9" style="width: 100.0%; height: 100.0%;">Helsinki (1952)</div>`)[0];
+                popup_2fe6d21803a8c0083d435e12b11cc130.setContent(html_a1dad18799fef43820922dcbcf8e36b9);
+            
+        
+
+        marker_c1681ffc0c8b763f5d1751ced538551e.bindPopup(popup_2fe6d21803a8c0083d435e12b11cc130)
+        ;
+
+        
+    
+    
+            var marker_68e5fe1b8d04f20839a45d4a1f70fdf4 = L.marker(
+                [-37.8136, 144.9631],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_2eff9743b2ceb453f7f28e00dc85bbc9 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_68e5fe1b8d04f20839a45d4a1f70fdf4.setIcon(icon_2eff9743b2ceb453f7f28e00dc85bbc9);
+        
+    
+        var popup_d77bb96ad4aa0db8d2fcd5fd7c56b493 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a56629cac11d476e389bc8c205f658d1 = $(`<div id="html_a56629cac11d476e389bc8c205f658d1" style="width: 100.0%; height: 100.0%;">Melbourne (1956)</div>`)[0];
+                popup_d77bb96ad4aa0db8d2fcd5fd7c56b493.setContent(html_a56629cac11d476e389bc8c205f658d1);
+            
+        
+
+        marker_68e5fe1b8d04f20839a45d4a1f70fdf4.bindPopup(popup_d77bb96ad4aa0db8d2fcd5fd7c56b493)
+        ;
+
+        
+    
+    
+            var marker_cac65b54cd447aad23a977f232bee3e1 = L.marker(
+                [41.9028, 12.4964],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_6e1d3b1d3e23dfae8484ebef96a3c642 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_cac65b54cd447aad23a977f232bee3e1.setIcon(icon_6e1d3b1d3e23dfae8484ebef96a3c642);
+        
+    
+        var popup_a0ca34070829795ec85487e060c9a711 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6e94b83909b022171533f0ea0cb5049b = $(`<div id="html_6e94b83909b022171533f0ea0cb5049b" style="width: 100.0%; height: 100.0%;">Rome (1960)</div>`)[0];
+                popup_a0ca34070829795ec85487e060c9a711.setContent(html_6e94b83909b022171533f0ea0cb5049b);
+            
+        
+
+        marker_cac65b54cd447aad23a977f232bee3e1.bindPopup(popup_a0ca34070829795ec85487e060c9a711)
+        ;
+
+        
+    
+    
+            var marker_4b648c1baa4a3a2e45a76883f3a5a5af = L.marker(
+                [35.6895, 139.6917],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_d0761d86cb1fd1917696cd42b7175b69 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_4b648c1baa4a3a2e45a76883f3a5a5af.setIcon(icon_d0761d86cb1fd1917696cd42b7175b69);
+        
+    
+        var popup_45be6774a9422ae0a9f4a4c7e743f107 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9db9505dba9b515d6fdb3cb34f3245ac = $(`<div id="html_9db9505dba9b515d6fdb3cb34f3245ac" style="width: 100.0%; height: 100.0%;">Tokyo (1964)</div>`)[0];
+                popup_45be6774a9422ae0a9f4a4c7e743f107.setContent(html_9db9505dba9b515d6fdb3cb34f3245ac);
+            
+        
+
+        marker_4b648c1baa4a3a2e45a76883f3a5a5af.bindPopup(popup_45be6774a9422ae0a9f4a4c7e743f107)
+        ;
+
+        
+    
+    
+            var marker_efa70e21f086a0cc2a7f4a0d86f053df = L.marker(
+                [19.4326, -99.1332],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_a2b480d8cb624dd86068e42435b4b952 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_efa70e21f086a0cc2a7f4a0d86f053df.setIcon(icon_a2b480d8cb624dd86068e42435b4b952);
+        
+    
+        var popup_9b42cadaa4ffde691c412ff43f0a1f2f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_b0a3277999806c3bcc81fccd68ab0a12 = $(`<div id="html_b0a3277999806c3bcc81fccd68ab0a12" style="width: 100.0%; height: 100.0%;">Mexico City (1968)</div>`)[0];
+                popup_9b42cadaa4ffde691c412ff43f0a1f2f.setContent(html_b0a3277999806c3bcc81fccd68ab0a12);
+            
+        
+
+        marker_efa70e21f086a0cc2a7f4a0d86f053df.bindPopup(popup_9b42cadaa4ffde691c412ff43f0a1f2f)
+        ;
+
+        
+    
+    
+            var marker_22acfa66ca7709796d3b4e3d7929aa85 = L.marker(
+                [48.1351, 11.582],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_1cffd30d38cd131634f9ac0ee36b309a = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_22acfa66ca7709796d3b4e3d7929aa85.setIcon(icon_1cffd30d38cd131634f9ac0ee36b309a);
+        
+    
+        var popup_711a11fd2ee6628ea63df6142730c87e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_7c0a1cfe3f721ef913feb9fb32d6f268 = $(`<div id="html_7c0a1cfe3f721ef913feb9fb32d6f268" style="width: 100.0%; height: 100.0%;">Munich (1972)</div>`)[0];
+                popup_711a11fd2ee6628ea63df6142730c87e.setContent(html_7c0a1cfe3f721ef913feb9fb32d6f268);
+            
+        
+
+        marker_22acfa66ca7709796d3b4e3d7929aa85.bindPopup(popup_711a11fd2ee6628ea63df6142730c87e)
+        ;
+
+        
+    
+    
+            var marker_67e44133de2ed91b3f432a78c8e20e76 = L.marker(
+                [45.5017, -73.5673],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_d34323bae08721b0b15cd7c2e2551b60 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_67e44133de2ed91b3f432a78c8e20e76.setIcon(icon_d34323bae08721b0b15cd7c2e2551b60);
+        
+    
+        var popup_baa5088b58553d501d249b2c739cdd67 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_dc9178afab9b90b226861049e82d077d = $(`<div id="html_dc9178afab9b90b226861049e82d077d" style="width: 100.0%; height: 100.0%;">Montreal (1976)</div>`)[0];
+                popup_baa5088b58553d501d249b2c739cdd67.setContent(html_dc9178afab9b90b226861049e82d077d);
+            
+        
+
+        marker_67e44133de2ed91b3f432a78c8e20e76.bindPopup(popup_baa5088b58553d501d249b2c739cdd67)
+        ;
+
+        
+    
+    
+            var marker_f56ccecf84f998a3a7a9ddf165cb9ca8 = L.marker(
+                [55.7558, 37.6173],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_0597fd7efeec3a06a0e0d0a6e2bcf7cb = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_f56ccecf84f998a3a7a9ddf165cb9ca8.setIcon(icon_0597fd7efeec3a06a0e0d0a6e2bcf7cb);
+        
+    
+        var popup_898aa852fca6a147334f520fe753cc2e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_15cd2af89e87095d0c76373c5a6504bf = $(`<div id="html_15cd2af89e87095d0c76373c5a6504bf" style="width: 100.0%; height: 100.0%;">Moscow (1980)</div>`)[0];
+                popup_898aa852fca6a147334f520fe753cc2e.setContent(html_15cd2af89e87095d0c76373c5a6504bf);
+            
+        
+
+        marker_f56ccecf84f998a3a7a9ddf165cb9ca8.bindPopup(popup_898aa852fca6a147334f520fe753cc2e)
+        ;
+
+        
+    
+    
+            var marker_806b746a208757097d08184fca92acaf = L.marker(
+                [34.0522, -118.2437],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_c07b64b1726517eba19b59c9945b9ada = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_806b746a208757097d08184fca92acaf.setIcon(icon_c07b64b1726517eba19b59c9945b9ada);
+        
+    
+        var popup_9e122e9a5bee5e39ab7756a95bf49d62 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_018354e9f3f187f23efdde6be8875f83 = $(`<div id="html_018354e9f3f187f23efdde6be8875f83" style="width: 100.0%; height: 100.0%;">Los Angeles (1984)</div>`)[0];
+                popup_9e122e9a5bee5e39ab7756a95bf49d62.setContent(html_018354e9f3f187f23efdde6be8875f83);
+            
+        
+
+        marker_806b746a208757097d08184fca92acaf.bindPopup(popup_9e122e9a5bee5e39ab7756a95bf49d62)
+        ;
+
+        
+    
+    
+            var marker_b5dcfdbce3f90e12912e88da2124fa2d = L.marker(
+                [37.5665, 126.978],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_9077f01e55727d7484ea346cf46e1e45 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_b5dcfdbce3f90e12912e88da2124fa2d.setIcon(icon_9077f01e55727d7484ea346cf46e1e45);
+        
+    
+        var popup_3cec8de7efab05da837a50a986261169 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3759ccc6dd045e08dd67a7a2fff994d4 = $(`<div id="html_3759ccc6dd045e08dd67a7a2fff994d4" style="width: 100.0%; height: 100.0%;">Seoul (1988)</div>`)[0];
+                popup_3cec8de7efab05da837a50a986261169.setContent(html_3759ccc6dd045e08dd67a7a2fff994d4);
+            
+        
+
+        marker_b5dcfdbce3f90e12912e88da2124fa2d.bindPopup(popup_3cec8de7efab05da837a50a986261169)
+        ;
+
+        
+    
+    
+            var marker_ab99c475dbc33fae151cb98e9df748c1 = L.marker(
+                [41.3851, 2.1734],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_24d13fb8e53c5ab5bac41153f87759d5 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_ab99c475dbc33fae151cb98e9df748c1.setIcon(icon_24d13fb8e53c5ab5bac41153f87759d5);
+        
+    
+        var popup_f44831f4559935dad0e6be2c2c87e288 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_bc4fb227691473c731d95ced1730fe2e = $(`<div id="html_bc4fb227691473c731d95ced1730fe2e" style="width: 100.0%; height: 100.0%;">Barcelona (1992)</div>`)[0];
+                popup_f44831f4559935dad0e6be2c2c87e288.setContent(html_bc4fb227691473c731d95ced1730fe2e);
+            
+        
+
+        marker_ab99c475dbc33fae151cb98e9df748c1.bindPopup(popup_f44831f4559935dad0e6be2c2c87e288)
+        ;
+
+        
+    
+    
+            var marker_02402ab042ece5e796af71ae7a521080 = L.marker(
+                [33.749, -84.388],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_f31e3cca3e387d0aaeb2b8602508e91f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_02402ab042ece5e796af71ae7a521080.setIcon(icon_f31e3cca3e387d0aaeb2b8602508e91f);
+        
+    
+        var popup_d6af56226e010c7b69f0384f241937b8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_ce92ffeee6f3186965248ca37724d7dd = $(`<div id="html_ce92ffeee6f3186965248ca37724d7dd" style="width: 100.0%; height: 100.0%;">Atlanta (1996)</div>`)[0];
+                popup_d6af56226e010c7b69f0384f241937b8.setContent(html_ce92ffeee6f3186965248ca37724d7dd);
+            
+        
+
+        marker_02402ab042ece5e796af71ae7a521080.bindPopup(popup_d6af56226e010c7b69f0384f241937b8)
+        ;
+
+        
+    
+    
+            var marker_bda9e168238f84d28d815fd7ed6c4ee2 = L.marker(
+                [-33.8688, 151.2093],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_465aac284a38a953025202a48e6de9d6 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_bda9e168238f84d28d815fd7ed6c4ee2.setIcon(icon_465aac284a38a953025202a48e6de9d6);
+        
+    
+        var popup_4149e565d194149966e459e6b3f48190 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_067cbab5ff63f15c108acc4f427f8755 = $(`<div id="html_067cbab5ff63f15c108acc4f427f8755" style="width: 100.0%; height: 100.0%;">Sydney (2000)</div>`)[0];
+                popup_4149e565d194149966e459e6b3f48190.setContent(html_067cbab5ff63f15c108acc4f427f8755);
+            
+        
+
+        marker_bda9e168238f84d28d815fd7ed6c4ee2.bindPopup(popup_4149e565d194149966e459e6b3f48190)
+        ;
+
+        
+    
+    
+            var marker_82431285ac623ac7e3df253e9ef0a439 = L.marker(
+                [37.9838, 23.7275],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_e9e389bf3d812e7b7d34b5670645c0bb = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_82431285ac623ac7e3df253e9ef0a439.setIcon(icon_e9e389bf3d812e7b7d34b5670645c0bb);
+        
+    
+        var popup_2bc66d738119a74123b8f3474b26ab3f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_550d8a4bcc6064ebbd9c13e931079659 = $(`<div id="html_550d8a4bcc6064ebbd9c13e931079659" style="width: 100.0%; height: 100.0%;">Athens (2004)</div>`)[0];
+                popup_2bc66d738119a74123b8f3474b26ab3f.setContent(html_550d8a4bcc6064ebbd9c13e931079659);
+            
+        
+
+        marker_82431285ac623ac7e3df253e9ef0a439.bindPopup(popup_2bc66d738119a74123b8f3474b26ab3f)
+        ;
+
+        
+    
+    
+            var marker_0ced03e998f2f839862483d55884c386 = L.marker(
+                [39.9042, 116.4074],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_72405707de4c11496dea30321885485e = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_0ced03e998f2f839862483d55884c386.setIcon(icon_72405707de4c11496dea30321885485e);
+        
+    
+        var popup_27c5b17332bb176219450394c208f594 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a2988bfcd2fda3aff509f2f918a19699 = $(`<div id="html_a2988bfcd2fda3aff509f2f918a19699" style="width: 100.0%; height: 100.0%;">Beijing (2008)</div>`)[0];
+                popup_27c5b17332bb176219450394c208f594.setContent(html_a2988bfcd2fda3aff509f2f918a19699);
+            
+        
+
+        marker_0ced03e998f2f839862483d55884c386.bindPopup(popup_27c5b17332bb176219450394c208f594)
+        ;
+
+        
+    
+    
+            var marker_df7ad359ae65e004fd1be495e37b1710 = L.marker(
+                [51.5074, -0.1278],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_ec3712bd81f94b548791e2b21224aa40 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_df7ad359ae65e004fd1be495e37b1710.setIcon(icon_ec3712bd81f94b548791e2b21224aa40);
+        
+    
+        var popup_83814045e35935d3915a41e095c74f7e = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_c41d23a9a0a99a671d93a59617664c7b = $(`<div id="html_c41d23a9a0a99a671d93a59617664c7b" style="width: 100.0%; height: 100.0%;">London (2012)</div>`)[0];
+                popup_83814045e35935d3915a41e095c74f7e.setContent(html_c41d23a9a0a99a671d93a59617664c7b);
+            
+        
+
+        marker_df7ad359ae65e004fd1be495e37b1710.bindPopup(popup_83814045e35935d3915a41e095c74f7e)
+        ;
+
+        
+    
+    
+            var marker_8a3d65eaaf79eecafc92c5cdf83bad77 = L.marker(
+                [-22.9068, -43.1729],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_d6382390b490056465dffb5ab04ad1c4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_8a3d65eaaf79eecafc92c5cdf83bad77.setIcon(icon_d6382390b490056465dffb5ab04ad1c4);
+        
+    
+        var popup_5fe8476a606c0b090bc00d586ba77bf8 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_3870b3466cde9d17f7ff1a53d9c18c0f = $(`<div id="html_3870b3466cde9d17f7ff1a53d9c18c0f" style="width: 100.0%; height: 100.0%;">Rio de Janeiro (2016)</div>`)[0];
+                popup_5fe8476a606c0b090bc00d586ba77bf8.setContent(html_3870b3466cde9d17f7ff1a53d9c18c0f);
+            
+        
+
+        marker_8a3d65eaaf79eecafc92c5cdf83bad77.bindPopup(popup_5fe8476a606c0b090bc00d586ba77bf8)
+        ;
+
+        
+    
+    
+            var marker_4d1509ce6d652baa8397fc24fa2d817b = L.marker(
+                [35.6895, 139.6917],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_307ee908406d988ceef081aa8d82a0e8 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_4d1509ce6d652baa8397fc24fa2d817b.setIcon(icon_307ee908406d988ceef081aa8d82a0e8);
+        
+    
+        var popup_d3589f5aa4ab4b72e3da2e010b5c493d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_481bf8e96274a60b76027ca780624f4e = $(`<div id="html_481bf8e96274a60b76027ca780624f4e" style="width: 100.0%; height: 100.0%;">Tokyo (2020)</div>`)[0];
+                popup_d3589f5aa4ab4b72e3da2e010b5c493d.setContent(html_481bf8e96274a60b76027ca780624f4e);
+            
+        
+
+        marker_4d1509ce6d652baa8397fc24fa2d817b.bindPopup(popup_d3589f5aa4ab4b72e3da2e010b5c493d)
+        ;
+
+        
+    
+    
+            var marker_c478feda20ecf6ff4043ba2f7ee233f2 = L.marker(
+                [48.8566, 2.3522],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_139adf3ea2c0801ed0deb5b009cdb6f4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_c478feda20ecf6ff4043ba2f7ee233f2.setIcon(icon_139adf3ea2c0801ed0deb5b009cdb6f4);
+        
+    
+        var popup_9d436bc26f8ba7350320f6da82dd122c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_77bf1373a38fb62db7098e85c48f7528 = $(`<div id="html_77bf1373a38fb62db7098e85c48f7528" style="width: 100.0%; height: 100.0%;">Paris (2024)</div>`)[0];
+                popup_9d436bc26f8ba7350320f6da82dd122c.setContent(html_77bf1373a38fb62db7098e85c48f7528);
+            
+        
+
+        marker_c478feda20ecf6ff4043ba2f7ee233f2.bindPopup(popup_9d436bc26f8ba7350320f6da82dd122c)
+        ;
+
+        
+    
+    
+            var marker_7cf0a4da544a586a165358b3586d502c = L.marker(
+                [34.0522, -118.2437],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_6a4562adc0d1cff456989a20d281a7b4 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_7cf0a4da544a586a165358b3586d502c.setIcon(icon_6a4562adc0d1cff456989a20d281a7b4);
+        
+    
+        var popup_2a7d02c5710ef9f6355a0e753b4cdaa7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_6a9a4ab3fabb9f589c39a566ef8ea1aa = $(`<div id="html_6a9a4ab3fabb9f589c39a566ef8ea1aa" style="width: 100.0%; height: 100.0%;">Los Angeles (2028)</div>`)[0];
+                popup_2a7d02c5710ef9f6355a0e753b4cdaa7.setContent(html_6a9a4ab3fabb9f589c39a566ef8ea1aa);
+            
+        
+
+        marker_7cf0a4da544a586a165358b3586d502c.bindPopup(popup_2a7d02c5710ef9f6355a0e753b4cdaa7)
+        ;
+
+        
+    
+    
+            var marker_bc497e72fd4436e288a939a499a84355 = L.marker(
+                [-27.4698, 153.0251],
+                {
+}
+            ).addTo(map_1ca1b98ac281fd82ae4c0cf4bffaf79a);
+        
+    
+            var icon_e6294ed32d613c96b36de5c03b25b1f3 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "red",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+            marker_bc497e72fd4436e288a939a499a84355.setIcon(icon_e6294ed32d613c96b36de5c03b25b1f3);
+        
+    
+        var popup_90f493d1302398403afe5ccb92551c2a = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_31b2d6944e6ed1558e54b1f589ad1166 = $(`<div id="html_31b2d6944e6ed1558e54b1f589ad1166" style="width: 100.0%; height: 100.0%;">Brisbane (2032)</div>`)[0];
+                popup_90f493d1302398403afe5ccb92551c2a.setContent(html_31b2d6944e6ed1558e54b1f589ad1166);
+            
+        
+
+        marker_bc497e72fd4436e288a939a499a84355.bindPopup(popup_90f493d1302398403afe5ccb92551c2a)
+        ;
+
+        
+    
+    
+            map_1ca1b98ac281fd82ae4c0cf4bffaf79a.fitBounds(
+                [[37.9838, 23.7275], [48.8566, 2.3522], [38.6272, -90.1994], [51.5074, -0.1278], [59.3293, 18.0686], [51.2194, 4.4025], [48.8566, 2.3522], [52.3676, 4.9041], [34.0522, -118.2437], [52.52, 13.405], [51.5074, -0.1278], [60.1699, 24.9354], [-37.8136, 144.9631], [41.9028, 12.4964], [35.6895, 139.6917], [19.4326, -99.1332], [48.1351, 11.582], [45.5017, -73.5673], [55.7558, 37.6173], [34.0522, -118.2437], [37.5665, 126.978], [41.3851, 2.1734], [33.749, -84.388], [-33.8688, 151.2093], [37.9838, 23.7275], [39.9042, 116.4074], [51.5074, -0.1278], [-22.9068, -43.1729], [35.6895, 139.6917], [48.8566, 2.3522], [34.0522, -118.2437], [-27.4698, 153.0251]],
+                {}
+            );
+        
+</script>
+</html>

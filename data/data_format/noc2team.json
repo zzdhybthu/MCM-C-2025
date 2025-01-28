@@ -1,0 +1,1734 @@
+{
+    "CHN": [
+        "China-3",
+        "China",
+        "China-1",
+        "China-2"
+    ],
+    "DEN": [
+        "Denmark\\/Sweden",
+        "Denmark-1",
+        "Digby",
+        "Jill",
+        "Bonzo",
+        "Nykjbings paa Falster",
+        "Web II",
+        "Snude",
+        "Clearwater",
+        "Don Schufro",
+        "Denmark",
+        "Snap",
+        "Roklubb Kbnhavn-2",
+        "Anitra",
+        "Denmark-2",
+        "Hi-Hi",
+        "Web III",
+        "Dansk Idrts Forbund",
+        "Denmark-4",
+        "Denmark-3",
+        "Polyteknisk Roklub-1",
+        "White Lady",
+        "Miss Denmark 1964",
+        "Tip",
+        "Nurdug II",
+        "Kiel",
+        "Skum",
+        "Chok",
+        "Morena"
+    ],
+    "NED": [
+        "Joy",
+        "Kemphaan",
+        "Mascotte",
+        "Thalatta",
+        "Netherlands-1",
+        "Holland",
+        "Amstel Amsterdam",
+        "Trintel II",
+        "Boreas-2",
+        "Nadine",
+        "Bem II",
+        "DeRuyter",
+        "Netherlands-2",
+        "Netherlands",
+        "Starita",
+        "Salinero",
+        "Univ. of Brussels",
+        "Minerva Amsterdam",
+        "Beatrijs III-1",
+        "Willem-Six",
+        "St. Margrite",
+        "Barco Deloro",
+        "Hollandia",
+        "Daisy",
+        "Nrnberg",
+        "Oranje",
+        "Sunrise"
+    ],
+    "FIN": [
+        "Ralia",
+        "rn-2",
+        "Xantippa",
+        "Bella",
+        "Finn II",
+        "Chaje II",
+        "Heatherbell",
+        "Helsingfors R. K.",
+        "Nina",
+        "Lucky Girl-1",
+        "Raili",
+        "Lucky Star",
+        "Vinha",
+        "Tu-Fri",
+        "Lynn",
+        "Bremen",
+        "Sheerio",
+        "Finland-1",
+        "Teresita",
+        "Finland-2",
+        "Finland",
+        "Rififi",
+        "Inga-Lill XXXXIII",
+        "Squid III"
+    ],
+    "NOR": [
+        "Pan",
+        "Kristiania Roklub-1",
+        "Lully II",
+        "Sonja II",
+        "Monica",
+        "KNS",
+        "Stella-2",
+        "Magda IX",
+        "Sildra-1",
+        "Lyn-2",
+        "Norway-1",
+        "Studenternes Roklub-2",
+        "Viking",
+        "Kristiania Roklub",
+        "Norwegier Turnverein, Brooklyn",
+        "Fram III",
+        "Jo",
+        "Norna",
+        "Irene",
+        "Heira II",
+        "Apache",
+        "Pan II",
+        "Norway",
+        "Norwegian Rowing Association",
+        "Mosk II",
+        "Ormsund Roklub-2",
+        "Sirene",
+        "Norway-2",
+        "Lett",
+        "Nora",
+        "Eleda",
+        "Hamburg",
+        "Atlanta",
+        "Marmi II-1",
+        "Noreg",
+        "Encore",
+        "Lucky",
+        "Fram",
+        "Elisabeth V",
+        "Struten",
+        "Bera",
+        "Elisabeth X",
+        "Silja",
+        "Taifun",
+        "Norway-3",
+        "Fornebo"
+    ],
+    "ROU": [
+        "Romania",
+        "Romania-1",
+        "Romania-2"
+    ],
+    "EST": [
+        "Brandenburg",
+        "Estonia",
+        "Tutti V"
+    ],
+    "FRA": [
+        "Pettit-Poucet-6",
+        "Virginie",
+        "Gitana-21",
+        "Tournade-40",
+        "Rozenn-3",
+        "Compigne Polo Club",
+        "Mascaret-4",
+        "Amulet-7",
+        "Amulet-3",
+        "LaBandera",
+        "Smyrna",
+        "Alcyon-7",
+        "Demi-Mondaine-17",
+        "Mignon-3",
+        "Verveine-19",
+        "Colette-10",
+        "Crabe II-1",
+        "Hb-24",
+        "L'Aile VI",
+        "Aloha II",
+        "Union des Socits Franais de Sports Athletiques",
+        "Chicago Athletic Association",
+        "Racing Club de France",
+        "France-4",
+        "Crabe II-4",
+        "Crabe I-2",
+        "Pupilles de Neptune de Lille-1",
+        "Plume-patte-32",
+        "Baby-9",
+        "Pierre et Jean-4",
+        "Gyp-6",
+        "Quand-Mme-33",
+        "Cercle Nautique de Reims-4",
+        "Giselle-6",
+        "Verveine-41",
+        "Cupidon Viking",
+        "Socit Nautique de Bayonne-2",
+        "Fantlet-7",
+        "Marsouin-26",
+        "Sarcelle-3",
+        "France-2",
+        "Societ Nautique de la Marne-3",
+        "Pupilles de Neptune de Lille #1-3",
+        "Turquoise-3",
+        "Marsouin-8",
+        "Turquoise-1",
+        "Leipzig",
+        "Quand-Mme-2",
+        "Sidi Fekkar-36",
+        "Ariette-8",
+        "Femur-1",
+        "Alcyon-6",
+        "Bagatelle Polo Club, Paris",
+        "Baby-1",
+        "Ariette-10",
+        "United States\\/France",
+        "Dick-8",
+        "Eissero VI",
+        "Mac Miche",
+        "Calimucho",
+        "Guyoni",
+        "Whitini Star",
+        "Scamasaxe-3",
+        "Freia-5",
+        "Gitana-2",
+        "Jeanette-25",
+        "BLO Polo Club, Rugby",
+        "Tornade-16",
+        "USFSA",
+        "Souriceau-38",
+        "Societ Nautique de la Marne-1",
+        "Colette-12",
+        "Ducky-4",
+        "Galopin-9",
+        "Nina Claire-2",
+        "Sidi-Fekkar-14",
+        "Favorite-1",
+        "Qu'Importe",
+        "Club Nautique de Lyon-2",
+        "Martha-27",
+        "Crabe II-12",
+        "Galopin-20",
+        "France",
+        "Socit Nautique de Bayonne",
+        "Mascaret-28",
+        "Scamasaxe-34",
+        "EA II",
+        "Libellule de Paris-3",
+        "Pierre et Jean-3",
+        "Crabe I-11",
+        "Mamie-4",
+        "Astrid III",
+        "Suzon IV-5",
+        "Hb-20",
+        "Sandra",
+        "Cercle de l'Aviron Roubaix-4",
+        "Crocodile-11",
+        "Carabinier-5",
+        "Club Nautique de Dieppe-5",
+        "Rowing Club Castillon-3",
+        "Tritons Lillois-2",
+        "Calypse II",
+        "Freia-19",
+        "Snowten III",
+        "Camille",
+        "Suzon IV-39",
+        "Souriceau-4",
+        "Jeannette-18",
+        "Gilliatt V",
+        "Tramontane",
+        "Favorite-17",
+        "Demi-Mondaine-15",
+        "Red Indian",
+        "Nina Claire-30",
+        "Carabinier-15",
+        "Femur-18",
+        "Libellule de Paris",
+        "Scamasaxe-2",
+        "Crabe I-3",
+        "Socit Nautique de Bayonne-1",
+        "Stade Franais AC-2",
+        "Olle",
+        "Pupilles de Neptune de Lille #2-1",
+        "Cinara-13",
+        "Crocodile-13",
+        "Martha-1",
+        "Socit Nautique de la Basse Seine-1",
+        "Gwendoline-2",
+        "Socit Nautique de la Basse Seine-2",
+        "Sarcelle-35",
+        "Fada",
+        "Club Nautique de Franais-1",
+        "Singy-7",
+        "Ducky-16",
+        "Pigoule",
+        "Rose Pompon",
+        "Fantlet-2",
+        "Namoussa",
+        "Diabolo St Maurice",
+        "Souvenance",
+        "Gyp-23",
+        "Allegro",
+        "Damoiselle",
+        "Pirouette-31",
+        "Plume-Patte-5",
+        "Gwendoline-22",
+        "France\\/Great Britain",
+        "C.V.A.-7",
+        "Gam II",
+        "Kannibaltje",
+        "C.V.A.-14",
+        "Frip IV",
+        "France-3",
+        "Mignon-29",
+        "Pirouette-5",
+        "Societ Nautique de la Marne",
+        "Esterel-1",
+        "Mamie-6",
+        "Singy-37",
+        "France-1"
+    ],
+    "MAR": [
+        "Morocco"
+    ],
+    "ESP": [
+        "Fruits",
+        "Posillipo III",
+        "Pasodoble",
+        "Galerna",
+        "Spain-2",
+        "Canopus",
+        "Tajamar",
+        "Spain",
+        "Spain-1",
+        "Amolgavar",
+        "Ral-Club Barcelona"
+    ],
+    "EGY": [
+        "Egypt"
+    ],
+    "IRI": [
+        "Iran",
+        "IR Iran"
+    ],
+    "BUL": [
+        "Bulgaria-1",
+        "Bulgaria-2",
+        "Bulgaria"
+    ],
+    "ITA": [
+        "Mirtala",
+        "Italy-2",
+        "Legionario",
+        "Enotria",
+        "Twins VIII",
+        "Merope",
+        "Esperia",
+        "Bucintoro Venezia-1",
+        "Aldebaran II",
+        "Merope III",
+        "Twins II",
+        "Mebi",
+        "Argeste",
+        "Ciocca II",
+        "Bamba",
+        "Pistoja\\/Firenze",
+        "Italia",
+        "Augsburg",
+        "Italy-1",
+        "Italy",
+        "Ausonia",
+        "Marinai della nave da guerra \"Varese\"",
+        "Roma",
+        "Romolo",
+        "Grifone",
+        "Ciocca",
+        "Voloira II",
+        "Barion\\/Bari-2",
+        "Galatea II",
+        "Aldebaran",
+        "Venilia",
+        "Pegaso",
+        "Bucintoro Venezia",
+        "Aretusa",
+        "Umberta V"
+    ],
+    "CHA": [
+        "Chad"
+    ],
+    "AZE": [
+        "Azerbaijan"
+    ],
+    "SUD": [
+        "Sudan"
+    ],
+    "RUS": [
+        "Russia-1",
+        "Russia",
+        "Russian Empire",
+        "Bylina-2",
+        "Gallia II",
+        "Russia-2",
+        "Norman-1"
+    ],
+    "ARG": [
+        "Matrero II",
+        "Djinn",
+        "Blue Red",
+        "Ardilla",
+        "Mizar",
+        "Antares",
+        "Cupidon III",
+        "Argentina-2",
+        "Gullvinge",
+        "Wiking",
+        "Rampage",
+        "Acturus",
+        "Covunco III",
+        "Argentina",
+        "Argentina-1",
+        "Pampero",
+        "Tango",
+        "Arcturus"
+    ],
+    "CUB": [
+        "Vesania",
+        "Kurush II",
+        "Cuba",
+        "Kurush IV",
+        "Cuba-2",
+        "Hatuey",
+        "Cuba-1"
+    ],
+    "BLR": [
+        "Belarus-1",
+        "Belarus",
+        "Belarus-2"
+    ],
+    "GRE": [
+        "Ethnikos Gymnastikos Syllogos",
+        "Greece-3",
+        "Phalainis ton Thorichtou \"Hydra\"-2",
+        "Nephos I",
+        "Nikh",
+        "Greece-1",
+        "Marie-Tim",
+        "Omilos Ereton Peiraios-2",
+        "Pan-Hellenic Athletic Club",
+        "Omilos Ereton Smyrnis",
+        "Life boat naval ship \"Spetsai\"-1",
+        "Greece-2",
+        "Thessalonki-1",
+        "Royal Club Nautique de Gand",
+        "Lemzos Thorichton \"Spetsai\"-4",
+        "Greece",
+        "Greece-4",
+        "Panhellenios Gymnastikos Syllogos-1",
+        "Nirefs",
+        "Peiraikos Syndesmos-2",
+        "Zefyros",
+        "Athens-2",
+        "Large boat, Central Naval Prep School \"Poros\"-1",
+        "Lemzos Thorichton \"Psara\"-3",
+        "Olympion",
+        "Phalainis ton Thorichtou \"Psara\"-3",
+        "Omas Helliniki P. S.",
+        "Proteus II",
+        "Nautikos Omilos-3"
+    ],
+    "CMR": [
+        "Cameroon"
+    ],
+    "TUR": [
+        "Türkiye",
+        "Cuxhaven",
+        "Marmara",
+        "Turkey"
+    ],
+    "CHI": [
+        "Chile",
+        "Mainz"
+    ],
+    "MEX": [
+        "A North American Team",
+        "Mexico",
+        "Xolotl",
+        "Acipactli",
+        "Nausikaa 4",
+        "Chamukina",
+        "Tlaloc"
+    ],
+    "USA": [
+        "Mythilus",
+        "United States-7",
+        "Shrew II",
+        "United States-4",
+        "United States\\/Great Britain",
+        "Missouri Athletic Club-3",
+        "Norwegier Turnverein, Brooklyn",
+        "Llanoria",
+        "Skidoo",
+        "Bingo",
+        "Potomac Archers",
+        "Widgeon",
+        "New York Athletic Club #1-1",
+        "Formosa",
+        "Union des Socits Franais de Sports Athletiques",
+        "Angelita",
+        "Chicago Athletic Association",
+        "Glider",
+        "Complex II",
+        "Atalanta Boat Club-1",
+        "Hilarius",
+        "Milwaukee Turnverein, Milwaukee",
+        "Three Star Too",
+        "Chicago Athletic Association-2",
+        "South St Louis Turnverein, St Louis",
+        "United States-12",
+        "United States-6",
+        "United States-14",
+        "La Salle Turnverein, Chicago",
+        "Aphrodite",
+        "Rush IV",
+        "Turnverein Vorwrts, Chicago",
+        "United States\\/France",
+        "Vesper Boat Club",
+        "New York Turnverein, New York",
+        "Century Boat Club-1",
+        "Spirit III",
+        "Vim III",
+        "Frimousse",
+        "St. Louis Southwest Turnverein #2-3",
+        "Independent Rowing Club-3",
+        "United States-11",
+        "United States Golf Association-3",
+        "BLO Polo Club, Rugby",
+        "Western Golf Association-1",
+        "Ravenswood Boat Club-2",
+        "St. Rose-2",
+        "New York Athletic Club #2-4",
+        "Mound City Rowing Club-2",
+        "Philadelphia Turngemeinde, Philadelphia",
+        "Foxhunters Hurlingham",
+        "United States-3",
+        "United States-9",
+        "United States-1",
+        "Kathleen",
+        "Brentina",
+        "St. Louis Amateur Athletic Association",
+        "United States-2",
+        "Babe",
+        "United States-13",
+        "Jupiter",
+        "United States-10",
+        "Angerburg",
+        "United States-5",
+        "New York Athletic Club",
+        "Margaret",
+        "Chicago Archers",
+        "Socialer Turnverein, Detroit",
+        "New York Athletic Club-4",
+        "Comanche",
+        "Seawanhaka Boat Club-1",
+        "Christian Brothers' College-1",
+        "Mystery",
+        "Central Turnverein, Chicago",
+        "Western Rowing Club-3",
+        "United States",
+        "A North American Team",
+        "Turnverein Vorwrts, Cleveland",
+        "Minotaur",
+        "Atalanta Boat Club-2",
+        "Trans-Mississippi Golf Association-2",
+        "Cincinnati Archers",
+        "Passaic Turnverein, Passaic",
+        "Spirit VI",
+        "Milwaukee Athletic Club-1",
+        "Boston Archers",
+        "New York Athletic Club-1",
+        "Tineke",
+        "Gallant",
+        "Concordia Turnverein, St Louis",
+        "Ravel",
+        "St. Louis Southwest Turnverein #1-2",
+        "Davenport Turngemeinde, Davenport",
+        "Rhythm",
+        "Germany\\/United States",
+        "United States-8",
+        "Frieda"
+    ],
+    "URS": [
+        "Persey",
+        "Neptun II",
+        "Druzhba",
+        "Viktoriya",
+        "Kon-Tiki",
+        "Tornado",
+        "Tulilind",
+        "Uragan",
+        "Almaz",
+        "Nokaut II",
+        "Olen",
+        "Taifun",
+        "Soviet Union",
+        "Korshun",
+        "Burevestnik"
+    ],
+    "NCA": [
+        "Nicaragua"
+    ],
+    "HUN": [
+        "Hungary-1",
+        "Balaton",
+        "Olimpia",
+        "Hungaria Evezos Egylet",
+        "Pannonia RC\\/National RC",
+        "Knigsberg",
+        "Hungaria",
+        "Hungary",
+        "Hungary-2",
+        "Hungary-3"
+    ],
+    "NGR": [
+        "Nigeria-1",
+        "Nigeria-2",
+        "Nigeria"
+    ],
+    "ALG": [
+        "Algeria"
+    ],
+    "KUW": [
+        "Kuwait"
+    ],
+    "BRN": [
+        "Bahrain"
+    ],
+    "PAK": [
+        "Pakistan"
+    ],
+    "IRQ": [
+        "Iraq"
+    ],
+    "UAR": [
+        "United Arab Republic"
+    ],
+    "LIB": [
+        "Lebanon",
+        "Maid of Lebanon"
+    ],
+    "QAT": [
+        "Qatar"
+    ],
+    "MAS": [
+        "Malaysia-2",
+        "Malaysia",
+        "Malaysia-1"
+    ],
+    "GER": [
+        "Mutafo",
+        "Tilly",
+        "Berliner Ruderclub Sport-Borussia-1",
+        "Paka V",
+        "Germania Ruder Club, Hamburg-2",
+        "Pan",
+        "Macky VI",
+        "Great Britain\\/Germany",
+        "Turnverein Vorwrts, Chicago",
+        "Tom Kyle",
+        "Germania II",
+        "Berliner Ruderclub",
+        "Rostock",
+        "Aschenbrodel",
+        "Berliner Ruderverein von 1876-2",
+        "Deutscher Schwimm Verband Berlin",
+        "Nirwana",
+        "Satchmo",
+        "Germania Ruder Club, Hamburg",
+        "Germany-3",
+        "Germany-2",
+        "Elvis Va",
+        "Ludwigshafener Ruderverein",
+        "St. Louis Southwest Turnverein #2-3",
+        "Subbnboana",
+        "Dinah V",
+        "Bronia",
+        "Bellatrix XIII",
+        "Gustel X",
+        "Bonaparte",
+        "Germany",
+        "Bellatrix IX",
+        "Wendehals",
+        "United Team of Germany",
+        "Gustel V",
+        "Tantalus",
+        "Germany\\/United States",
+        "Wannsee",
+        "Germany-1",
+        "South St Louis Turnverein, St Louis",
+        "Ludwigshafener Ruder Verein-1",
+        "Favorite Hammonia-3",
+        "Frankfurt Club",
+        "Gustl XI"
+    ],
+    "CAN": [
+        "Beaver",
+        "Pop Art",
+        "Winnipeg Shamrocks-1",
+        "Manana",
+        "Whirlaway",
+        "State VI",
+        "Canada-2",
+        "Serendipity",
+        "Santa Maria",
+        "Toronto Argonauts",
+        "Trickson VI",
+        "Syndi",
+        "Windor",
+        "Mohawk Indians-2",
+        "Canada-1",
+        "Jet",
+        "Argo II",
+        "Scaup",
+        "Scram",
+        "SagaII",
+        "Tomahawk II",
+        "Caprice",
+        "Orion",
+        "Glisten",
+        "Mad Dog",
+        "Ariel",
+        "Argonaut Rowing Club",
+        "Gran Gesto",
+        "Dresden",
+        "Galt Football Club",
+        "Canada"
+    ],
+    "IRL": [
+        "Ireland-2",
+        "The Cloud",
+        "Akatonbo",
+        "Ireland",
+        "Three Leaves",
+        "Aletta",
+        "Ireland-1"
+    ],
+    "AUS": [
+        "Buraddoo",
+        "Pakaria",
+        "Falcon VI",
+        "Hornet",
+        "Relampago",
+        "Paula",
+        "Australia-1",
+        "Gabbiano",
+        "Australia-3",
+        "Cambria",
+        "Australia\\/Great Britain",
+        "Amateur Athletic Association",
+        "Vinha",
+        "Diablo",
+        "Barrenjoey",
+        "Quando Quando",
+        "Naiad",
+        "Maryke",
+        "Australia",
+        "Australia-2",
+        "Greenoaks Dundee",
+        "Moorina",
+        "Falcon IV"
+    ],
+    "RSA": [
+        "Boer Team",
+        "South Africa",
+        "Impala",
+        "South Africa-2",
+        "Springbok",
+        "Shoveller",
+        "South Africa-1",
+        "Yeoman V",
+        "Hakahana"
+    ],
+    "ERI": [
+        "Eritrea"
+    ],
+    "TAN": [
+        "Tanzania"
+    ],
+    "JOR": [
+        "Jordan"
+    ],
+    "TUN": [
+        "Tunisia"
+    ],
+    "LBA": [
+        "Libya"
+    ],
+    "BEL": [
+        "Lalage",
+        "Belgium-3",
+        "Ciss",
+        "Antwerpia V",
+        "Tan-Fe-Pah",
+        "Meteor",
+        "Belgium-2",
+        "Belgium",
+        "Belgium-1",
+        "Brussels Swimming and Water Polo Club",
+        "Girl Pat",
+        "Freddy",
+        "Suzy-2",
+        "Royal Club Nautique de Gand",
+        "Univ. of Brussels",
+        "Danzig",
+        "Ubu",
+        "Zut",
+        "Dolfijn",
+        "Edelweiss II-1",
+        "Belgium-4",
+        "Pupilles de Neptune de Lille #1-3"
+    ],
+    "DJI": [
+        "Djibouti"
+    ],
+    "PLE": [
+        "Palestine"
+    ],
+    "COM": [
+        "Comoros"
+    ],
+    "KAZ": [
+        "Kazakhstan"
+    ],
+    "BRU": [
+        "Brunei Darussalam",
+        "Brunei"
+    ],
+    "IND": [
+        "India-2",
+        "India-1",
+        "India"
+    ],
+    "KSA": [
+        "Saudi Arabia"
+    ],
+    "SYR": [
+        "Syria"
+    ],
+    "MDV": [
+        "Maldives"
+    ],
+    "ETH": [
+        "Ethiopia"
+    ],
+    "UAE": [
+        "United Arab Emirates",
+        "UA Emirates"
+    ],
+    "YAR": [
+        "North Yemen"
+    ],
+    "INA": [
+        "Indonesia-2",
+        "Tengiri",
+        "Indonesia-1",
+        "Partenope",
+        "Indonesia"
+    ],
+    "PHI": [
+        "Kalayaan",
+        "Philippines",
+        "Patricia"
+    ],
+    "SGP": [
+        "Rika II",
+        "Singapore",
+        "Singapore-1",
+        "Singapore-2",
+        "June Climene"
+    ],
+    "UZB": [
+        "Uzbekistan"
+    ],
+    "KGZ": [
+        "Kyrgyzstan"
+    ],
+    "TJK": [
+        "Tajikistan"
+    ],
+    "EUN": [
+        "Unified Team",
+        "Unified Team-2",
+        "Unified Team-1"
+    ],
+    "JPN": [
+        "Whisper",
+        "Riccar",
+        "Danaldo",
+        "Essen",
+        "Japan-3",
+        "Rambo",
+        "Japan",
+        "Japan-1",
+        "Roy",
+        "Myojo",
+        "Miss Nippon V",
+        "Boreas",
+        "MitaII",
+        "Japan-2",
+        "Dow Jones"
+    ],
+    "CGO": [
+        "Congo",
+        "Congo (Brazzaville)",
+        "Republic of the Congo"
+    ],
+    "SUI": [
+        "Ylliam II",
+        "Ali-Baba II",
+        "Kln",
+        "Tim-Tam III",
+        "Ali-Baba VI",
+        "Switzerland-2",
+        "Pousse-Moi Pas VII",
+        "Fantasio III",
+        "Switzerland-1",
+        "Lerina",
+        "Alain IV",
+        "Ali-Baba IV",
+        "Ylliam VII",
+        "Ballerina IV",
+        "Ali-Baba IX",
+        "Baccara",
+        "Switzerland",
+        "Ylliam VIII"
+    ],
+    "BRA": [
+        "Vento Sul",
+        "Brazil-2",
+        "Andorinha",
+        "Terrible",
+        "Clementine V",
+        "Lbeck",
+        "Brazil",
+        "Escapade",
+        "Buscape II",
+        "Pimm",
+        "Brazil-1",
+        "Bu III",
+        "Inca"
+    ],
+    "GDR": [
+        "East Germany-2",
+        "East Germany-1",
+        "East Germany-3",
+        "East Germany"
+    ],
+    "MON": [
+        "Monaco",
+        "Hirondelle",
+        "Damoiselle IV"
+    ],
+    "ISR": [
+        "Israel"
+    ],
+    "URU": [
+        "Uruguay",
+        "Bajazzo",
+        "Nortazo",
+        "Heidelberg"
+    ],
+    "SWE": [
+        "Kerstin-1",
+        "Denmark\\/Sweden",
+        "Humbug V",
+        "Ali-Baba II",
+        "Sweden-1",
+        "Ilderim",
+        "Sweden-3",
+        "May Be VII",
+        "Sylvia",
+        "Sweden",
+        "Marga-2",
+        "Roddklubben af 1912-2",
+        "Sunshine",
+        "Chance",
+        "Solos Carex",
+        "Vinga-1",
+        "Aloha II",
+        "Slaghoken",
+        "Galejan",
+        "K.S.S.S. 1912-2",
+        "Rush V",
+        "Kullan",
+        "Gteborgs Roddfrening-2",
+        "Lotta IV",
+        "Sif",
+        "Erna Signe",
+        "Lasha",
+        "Ingegerd",
+        "Freja",
+        "Slaghoken II",
+        "Swedish Star",
+        "Tornado",
+        "Mari",
+        "Bissbi",
+        "Sans Atout-1",
+        "Rush VII",
+        "Briar",
+        "Elsie",
+        "Kitty-1",
+        "Sass-2",
+        "Kuling",
+        "Sjovinge",
+        "Roddklubben af 1912-1",
+        "Sweden-4",
+        "Hojwa",
+        "Vaxholm Roddklubb",
+        "Saga-2",
+        "Gteborgs Roddklubb-1",
+        "Hayama",
+        "Sweden-2",
+        "Floresco",
+        "May Be"
+    ],
+    "SRI": [
+        "Sri Lanka"
+    ],
+    "ARM": [
+        "Armenia"
+    ],
+    "CIV": [
+        "Cote d'Ivoire",
+        "Ivory Coast",
+        "Côte d'Ivoire"
+    ],
+    "KEN": [
+        "Kenya"
+    ],
+    "BEN": [
+        "Benin"
+    ],
+    "GBR": [
+        "Beaver",
+        "Upton Park FC",
+        "Smyrna",
+        "United States\\/Great Britain",
+        "Union des Socits Franais de Sports Athletiques",
+        "Scotland",
+        "Lucky Star",
+        "Sorais-2",
+        "Quicksilver-2",
+        "London City Police-1",
+        "K Division Metropolitan Police Team-3",
+        "Heroine",
+        "Potsdam",
+        "Mouchette-2",
+        "Wolseley-Siddeley-1",
+        "Hurlingham-2",
+        "Twinkle",
+        "Great Britain-3",
+        "Magdalen College Boat Club-1",
+        "England",
+        "Yeoman VII",
+        "Dormy-1",
+        "Bohemia\\/Great Britain",
+        "Cornwall",
+        "Brat",
+        "Bagatelle Polo Club, Paris",
+        "Ancora",
+        "Osborne Swimming Club, Manchester",
+        "Emily",
+        "Laurea-1",
+        "Omilos Ereton Smyrnis",
+        "Paka",
+        "Great Britain-1",
+        "Devon and Somerset Wanderers",
+        "Cobweb-1",
+        "Amateur Athletic Association",
+        "Cambridge University Boat Club-2",
+        "BLO Polo Club, Rugby",
+        "Scotland-3",
+        "Great Britain-2",
+        "Starlight III",
+        "Ireland-3",
+        "Foxhunters Hurlingham",
+        "Leander Club-1",
+        "Swift",
+        "Saskia",
+        "Great Britain-4",
+        "Great Britain",
+        "Lady C",
+        "Great Britain\\/Germany",
+        "Scotland-2",
+        "Vision",
+        "England-1",
+        "Roehampton-1",
+        "Wales-4",
+        "Scotia",
+        "Sibindi-2",
+        "Brynhild-2",
+        "Feo",
+        "Ireland",
+        "Lancet",
+        "Thames Rowing Club",
+        "Gyrinus-1",
+        "Andromeda",
+        "Cicely-1",
+        "Libellule de Paris",
+        "Nan-2",
+        "Chuckles",
+        "Fortuna",
+        "Olle",
+        "Leander Club #2-2",
+        "Gem II",
+        "Bluebottle",
+        "Bona Fide",
+        "Moseley Wanderers",
+        "Sea Dog-2",
+        "Joy",
+        "Hera-1",
+        "Johan",
+        "Lalage",
+        "Yeoman XII",
+        "Liverpool Police Team-2",
+        "Leander Club #1-1",
+        "Ceres II",
+        "Unique",
+        "Dylan-2",
+        "Salamander",
+        "Leander Club-2",
+        "Australia\\/Great Britain",
+        "France\\/Great Britain",
+        "Ireland-2",
+        "New College, Oxford-2",
+        "Sabre",
+        "Mistral Hojris",
+        "Titia",
+        "Univ. of Brussels",
+        "United Kingdom"
+    ],
+    "GHA": [
+        "Ghana"
+    ],
+    "SOM": [
+        "Somalia"
+    ],
+    "NIG": [
+        "Niger"
+    ],
+    "MLI": [
+        "Mali"
+    ],
+    "AFG": [
+        "Afghanistan"
+    ],
+    "POL": [
+        "Poland-1",
+        "Poland-2",
+        "Poland",
+        "Poland-3",
+        "Danuta"
+    ],
+    "CRC": [
+        "Costa Rica"
+    ],
+    "PAN": [
+        "Panama"
+    ],
+    "GEO": [
+        "Georgia"
+    ],
+    "SLO": [
+        "Slovenia-2",
+        "Slovenia-1",
+        "Slovenia"
+    ],
+    "GUY": [
+        "Guyana"
+    ],
+    "NZL": [
+        "Red Dragon",
+        "Harmony",
+        "Osborne Swimming Club, Manchester",
+        "Pandora",
+        "New Zealand",
+        "Jest"
+    ],
+    "POR": [
+        "Ma'Lindo",
+        "Camelia",
+        "Vicking",
+        "Argus",
+        "Calcinhas",
+        "Canopus",
+        "Sjhxa",
+        "Galopin De La Font",
+        "Hannover",
+        "Espardate",
+        "Oxalis",
+        "Notavel",
+        "Faneca",
+        "Grifo III",
+        "Alcaid",
+        "Espadarte",
+        "Ciocca III",
+        "Symphony",
+        "Portugal",
+        "Grifo IV"
+    ],
+    "PAR": [
+        "Paraguay"
+    ],
+    "ANG": [
+        "Angola"
+    ],
+    "VEN": [
+        "Espuma del Mar",
+        "Venezuela"
+    ],
+    "COL": [
+        "Colombia",
+        "Racing Club de France"
+    ],
+    "FRG": [
+        "West Germany-2",
+        "West Germany",
+        "West Germany-1",
+        "West Germany-3"
+    ],
+    "BAN": [
+        "Bangladesh"
+    ],
+    "PER": [
+        "Peru"
+    ],
+    "ESA": [
+        "El Salvador"
+    ],
+    "PUR": [
+        "Puerto Rico"
+    ],
+    "UGA": [
+        "Uganda"
+    ],
+    "HON": [
+        "Honduras"
+    ],
+    "ECU": [
+        "Ecuador"
+    ],
+    "TKM": [
+        "Turkmenistan"
+    ],
+    "MRI": [
+        "Mauritius-1",
+        "Mauritius-2",
+        "Mauritius"
+    ],
+    "SEY": [
+        "Seychelles"
+    ],
+    "TCH": [
+        "Czechoslovakia-3",
+        "Czechoslovakia",
+        "Czechoslovakia-2",
+        "Czechoslovakia-1"
+    ],
+    "LUX": [
+        "Luxembourg"
+    ],
+    "MTN": [
+        "Mauritania"
+    ],
+    "SKN": [
+        "Saint Kitts and Nevis",
+        "St Kitts and Nevis"
+    ],
+    "TTO": [
+        "Firebird II",
+        "Trinidad and Tobago"
+    ],
+    "DOM": [
+        "Dominican Republic"
+    ],
+    "VIN": [
+        "Saint Vincent and the Grenadines",
+        "StVincent&Grenadines"
+    ],
+    "JAM": [
+        "Miss Nippon IV",
+        "Jamaica"
+    ],
+    "LBR": [
+        "Liberia"
+    ],
+    "SUR": [
+        "Suriname"
+    ],
+    "NEP": [
+        "Nepal"
+    ],
+    "MGL": [
+        "Mongolia"
+    ],
+    "AUT": [
+        "Donar III",
+        "Philadelphia Turngemeinde, Philadelphia",
+        "Austria-2",
+        "R.-V. Germania, Leitmeritz",
+        "30. Februar",
+        "Austria",
+        "Evita VI",
+        "Brigantia",
+        "May-Be 1960",
+        "Austria-1",
+        "Surprise",
+        "Breslau"
+    ],
+    "PLW": [
+        "Palau"
+    ],
+    "LTU": [
+        "Lithuania"
+    ],
+    "TOG": [
+        "Togo"
+    ],
+    "NAM": [
+        "Namibia"
+    ],
+    "AHO": [
+        "Netherlands Antilles"
+    ],
+    "UKR": [
+        "Ukraine-1",
+        "Ukraine-2",
+        "Ukraine"
+    ],
+    "ISL": [
+        "Iceland"
+    ],
+    "ASA": [
+        "American Samoa"
+    ],
+    "SAM": [
+        "Samoa"
+    ],
+    "RWA": [
+        "Rwanda"
+    ],
+    "CRO": [
+        "Croatia"
+    ],
+    "DMA": [
+        "Dominica"
+    ],
+    "HAI": [
+        "Haiti",
+        "Union des Socits Franais de Sports Athletiques"
+    ],
+    "MLT": [
+        "Malta",
+        "Merope"
+    ],
+    "CYP": [
+        "Cyprus"
+    ],
+    "GUI": [
+        "Guinea"
+    ],
+    "BIZ": [
+        "Belize"
+    ],
+    "YMD": [
+        "South Yemen"
+    ],
+    "THA": [
+        "Linglom",
+        "Siames-Cat",
+        "Tichiboo",
+        "Thailand-2",
+        "Thailand",
+        "Thailand-1"
+    ],
+    "BER": [
+        "Bermuda",
+        "Oleander XII",
+        "Bermudian",
+        "Oleander II",
+        "Pam",
+        "Bermudes"
+    ],
+    "ANZ": [
+        "Sydney Rowing Club",
+        "Australasia"
+    ],
+    "SCG": [
+        "Serbia and Montenegro"
+    ],
+    "SLE": [
+        "Sierra Leone"
+    ],
+    "PNG": [
+        "Papua New Guinea"
+    ],
+    "YEM": [
+        "Yemen"
+    ],
+    "IOA": [
+        "Individual Olympic Athletes"
+    ],
+    "OMA": [
+        "Oman"
+    ],
+    "FIJ": [
+        "Fiji"
+    ],
+    "VAN": [
+        "Vanuatu"
+    ],
+    "MDA": [
+        "Moldova",
+        "Republic of Moldova"
+    ],
+    "BAH": [
+        "Guanahani",
+        "Yeoman",
+        "Gem IV",
+        "Combine",
+        "Gem",
+        "Bim",
+        "Gem III",
+        "Bahamas",
+        "Gem VII",
+        "John B"
+    ],
+    "GUA": [
+        "Guatemala"
+    ],
+    "YUG": [
+        "Yugoslavia",
+        "Konstanz",
+        "Yugoslavia-1",
+        "Cha-Cha III",
+        "Yugoslavia-2",
+        "Primorka"
+    ],
+    "LAT": [
+        "Latvia-1",
+        "Latvia-2",
+        "Latvia"
+    ],
+    "SRB": [
+        "Serbia-1",
+        "Serbia-2",
+        "Serbia"
+    ],
+    "IVB": [
+        "Virgin Islands, B",
+        "British Virgin Islands"
+    ],
+    "MOZ": [
+        "Mozambique"
+    ],
+    "ISV": [
+        "Virgin Islands, US",
+        "Virgin Islands",
+        "United States Virgin Islands"
+    ],
+    "CAF": [
+        "Central African Republic",
+        "Centr Afric Re"
+    ],
+    "MAD": [
+        "Madagascar"
+    ],
+    "MAL": [
+        "Malaya"
+    ],
+    "BIH": [
+        "Bosnia and Herzegovina",
+        "Bosnia & Herzegovina"
+    ],
+    "GUM": [
+        "Guam"
+    ],
+    "CAY": [
+        "Cayman Islands"
+    ],
+    "SVK": [
+        "Slovakia-1",
+        "Slovakia",
+        "Slovakia-2"
+    ],
+    "BAR": [
+        "Barbados"
+    ],
+    "GBS": [
+        "Guinea-Bissau",
+        "Guinea Bissau"
+    ],
+    "TLS": [
+        "East Timor",
+        "Timor-Leste",
+        "Timor Leste"
+    ],
+    "COD": [
+        "Democratic Republic of the Congo",
+        "Congo (Kinshasa)",
+        "DR Congo"
+    ],
+    "GAB": [
+        "Gabon"
+    ],
+    "SMR": [
+        "San Marino"
+    ],
+    "LAO": [
+        "Laos",
+        "Lao PDR"
+    ],
+    "BOT": [
+        "Botswana"
+    ],
+    "ROT": [
+        "Refugee Olympic Athletes"
+    ],
+    "KOR": [
+        "South Korea",
+        "South Korea-1",
+        "South Korea-2",
+        "Korea"
+    ],
+    "CAM": [
+        "Cambodia",
+        "GyoshuII"
+    ],
+    "PRK": [
+        "North Korea-2",
+        "North Korea-1",
+        "North Korea",
+        "DPR Korea"
+    ],
+    "SOL": [
+        "Solomon Islands"
+    ],
+    "SEN": [
+        "Senegal"
+    ],
+    "CPV": [
+        "Cabo Verde",
+        "Cape Verde"
+    ],
+    "CZE": [
+        "Czech Republic-2",
+        "Czechia",
+        "Czech Republic-1",
+        "Czech Republic"
+    ],
+    "CRT": [
+        "Crete"
+    ],
+    "GEQ": [
+        "Equatorial Guinea"
+    ],
+    "BOL": [
+        "Bolivia"
+    ],
+    "SAA": [
+        "Saar"
+    ],
+    "ANT": [
+        "Antigua and Barbuda"
+    ],
+    "AND": [
+        "Andorra"
+    ],
+    "ZIM": [
+        "Zimbabwe",
+        "Peri II"
+    ],
+    "GRN": [
+        "Grenada"
+    ],
+    "HKG": [
+        "Hong Kong",
+        "Phoenix",
+        "Hong Kong, China",
+        "Hong Kong-2",
+        "Hong Kong-1"
+    ],
+    "LCA": [
+        "Saint Lucia"
+    ],
+    "FSM": [
+        "Micronesia",
+        "Federated States of Micronesia"
+    ],
+    "MYA": [
+        "Kingfisher",
+        "Myanmar",
+        "Yangon"
+    ],
+    "MAW": [
+        "Malawi"
+    ],
+    "ZAM": [
+        "Zambia"
+    ],
+    "RHO": [
+        "Rhodesia",
+        "Peri"
+    ],
+    "TPE": [
+        "Chinese Taipei-1",
+        "Chinese Taipei",
+        "Chinese Taipei-2"
+    ],
+    "STP": [
+        "São Tomé and Príncipe",
+        "Sao Tome & Principe",
+        "Sao Tome and Principe"
+    ],
+    "MKD": [
+        "North Macedonia",
+        "Macedonia"
+    ],
+    "BOH": [
+        "Bohemia-2",
+        "Bohemia-1",
+        "Bohemia-3",
+        "Bohemia",
+        "Bohemia\\/Great Britain"
+    ],
+    "LIE": [
+        "Liechtenstein"
+    ],
+    "MNE": [
+        "Montenegro"
+    ],
+    "GAM": [
+        "The Gambia",
+        "Gambia"
+    ],
+    "COK": [
+        "Cook Islands"
+    ],
+    "ALB": [
+        "Albania"
+    ],
+    "WIF": [
+        "Circus",
+        "West Indies Federation"
+    ],
+    "SWZ": [
+        "Swaziland",
+        "Eswatini"
+    ],
+    "BUR": [
+        "Burkina Faso"
+    ],
+    "NBO": [
+        "North Borneo"
+    ],
+    "BDI": [
+        "Burundi"
+    ],
+    "ARU": [
+        "Aruba"
+    ],
+    "NRU": [
+        "Nauru"
+    ],
+    "VNM": [
+        "South Vietnam"
+    ],
+    "VIE": [
+        "Vietnam"
+    ],
+    "BHU": [
+        "Bhutan"
+    ],
+    "MHL": [
+        "Marshall Islands"
+    ],
+    "KIR": [
+        "Kiribati"
+    ],
+    "UNK": [
+        "Unknown"
+    ],
+    "TUV": [
+        "Tuvalu"
+    ],
+    "TGA": [
+        "Tonga"
+    ],
+    "NFL": [
+        "Newfoundland"
+    ],
+    "KOS": [
+        "Kosovo"
+    ],
+    "SSD": [
+        "South Sudan"
+    ],
+    "LES": [
+        "Lesotho"
+    ],
+    "ROC": [
+        "Russia"
+    ],
+    "EOR": [
+        "EOR",
+        "Refugee Olympic Team"
+    ],
+    "LBN": [
+        "Lebanon"
+    ],
+    "AIN": [
+        "AIN"
+    ],
+    "ZZX": [
+        "Mixed team"
+    ],
+    "CEY": [
+        "Ceylon"
+    ],
+    "BWI": [
+        "British West Indies"
+    ],
+    "TWN": [
+        "Taiwan"
+    ],
+    "IOP": [
+        "Independent Olympic Athletes",
+        "Independent Olympic Participants"
+    ],
+    "SRJ": [
+        "FR Yugoslavia"
+    ]
+}
