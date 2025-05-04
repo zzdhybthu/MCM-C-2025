@@ -3,5 +3,5 @@
 Honorable Mention! Congratulations!
 
 Team Member:
-- YangMing Chen, People's Public Security University of China
+- MingYang Chen, People's Public Security University of China
 - Ziyi Chen, Tsinghua University
