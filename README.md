@@ -8,7 +8,7 @@ Project for 2025 Mathematical Contest in Modeling, Problem C.
 
 Team Member:
 - MingYang Chen, People's Public Security University of China
-- Ziyi Chen, Tsinghua University
+- ZiYi Chen, Tsinghua University
 
 ## Directory Structure
 
